@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Hi, i'm Keerthi!<br>
-🔭 I’m currently looking for an opportunity  studied computer science at MVJ college of engineering, Bangalure<br>👯 I’m looking to collaborate on <b>software development</b><br>🤝 I’m looking for help with developing Api's<br>🌱 I’m currently learning Data Strutures and advance JS<br>💬 Ask me about web development<br>⚡ Fun fact- Lazy Intelligent
+🔭 I’m currently looking for an opportunity  studied <b>computer science</b> at MVJ college of engineering, Bangalure<br>👯 I’m looking to collaborate on <b>software development</b><br>🤝 I’m looking for help with developing Api's<br>🌱 I’m currently learning <b>Data Strutures and Advance JS</b><br>💬 Ask me about </b>web development</b><br>⚡ Fun fact-<b> Lazy Intelligent</b>
 
 
 ## 🌐 Socials:
