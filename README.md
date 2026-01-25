@@ -1,4 +1,3 @@
-
 # Hi, I'm Keerthi! 💫 <br>
 
 🔭 Software Developer, Studied <b>Computer Science & Engineering </b> at MVJ college of engineering, Bangalure<br>👯 I’m looking to collaborate on <b>Software Development</b><br>🤝 I’m looking for help with <b>Developing/Build an API's</b><br>🌱 I’m currently learning <b>Data Strutures and Advance JS</b><br>💬 Ask me about <b>Web Development</b><br>
